@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.div_menu {background-color: black;
+color: white;
+	text-transform: uppercase;
+}
+.div_menu a {text-decoration:none}
